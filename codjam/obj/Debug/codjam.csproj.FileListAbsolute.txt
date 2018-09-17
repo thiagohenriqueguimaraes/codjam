@@ -1,0 +1,7 @@
+c:\users\thiago\source\repos\codjam\codjam\bin\Debug\codjam.exe.config
+c:\users\thiago\source\repos\codjam\codjam\bin\Debug\codjam.exe
+c:\users\thiago\source\repos\codjam\codjam\bin\Debug\codjam.pdb
+c:\users\thiago\source\repos\codjam\codjam\obj\Debug\codjam.csprojResolveAssemblyReference.cache
+c:\users\thiago\source\repos\codjam\codjam\obj\Debug\codjam.csproj.CoreCompileInputs.cache
+c:\users\thiago\source\repos\codjam\codjam\obj\Debug\codjam.exe
+c:\users\thiago\source\repos\codjam\codjam\obj\Debug\codjam.pdb
